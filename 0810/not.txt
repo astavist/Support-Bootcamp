@@ -1,0 +1,28 @@
+Kubernetes
+konteyner organizasyonu
+servis discovery ve load balancing sağlar
+otomasyon rollout ve rollback sağlar
+otomatik bin packaging
+storage orchestration
+secret and conf management
+
+kubernetes master
+kubernetes node-kubernetes node-......
+
+master machine component
+1-etcd 
+it can only accessed api server
+it stores configuration information
+
+2-api server
+
+3-controller manager
+
+4-scheduler
+divide workload
+
+
+
+
+Openshift
+konteyner organizasyonu

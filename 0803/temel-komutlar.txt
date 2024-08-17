@@ -1,0 +1,23 @@
+docker version
+docker info
+docker pull - image indirmek için kullanılır
+        docker pull ubuntu:22.04
+
+docker run - bir konteynerı çalıştırmak için
+        -d --deattach
+        -p --publish port açmak için
+        --name
+        -v --volume
+        -t --tty tty connection açmak için
+        -i --interactive
+
+docker ps - çalışan bütün konteynerları listeler
+        -a çalışan çalışmayan hepsini listeler
+
+docker start konteynerı başlatmak için
+docker stop konteynerı durdurmak için
+docker restart konteynerı yeniden başlatmak için
+docker rm -f konteynerı silmek için id veya isimle çalışan
+
+docker exec -ti name 
+

@@ -1,0 +1,30 @@
+28072024
+
+||Service Quality
+subjektiftir
+genel olarak servis performansına ve müşteri memnuniyetine bağlıdır.
+olumlu olduğunda müşteri sadakatini sağlıyor
+olumsuzken müşteri kaybına yol açıyor.
+
+||Quality Policy
+ISO20000
+hedeflerin tutturulması, customer SLA'lerin yapılması önemlidir
+Efektiflik ve verimliliğin arttırılması önemlidir.
+
+
+||Quality Management  System
+Müşteri beklentilerini ve ihtiyaçlarını belirler
+
+||Escalatioan Process
+Bir sorun geldiğinde bunu belirtilen sürede çözemediğinde 
+veya karmaşık bir problemle karşılaşıldığında bir üst seviyeye escale etmek
+Eğer problemi zamanında escale etmezseniz hata sizde kalır
+
+
+L1-İLK AŞAMA-temel sorun giderme-yazılım kurma-şifre sıfırlama
+L2-ilk aşamanın çözemediği işleri yürütür, karmaşık ve teknik işler
+L3-uzmanlık gerektiren, yüksek düzey teknik
+L4-VENDOR, sistem sağlayıcılarla çalışır (Microsoft, VMWARE vs.)
+
+
+

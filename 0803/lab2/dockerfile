@@ -1,0 +1,10 @@
+FROM centos
+ 
+MAINTAINER astavist
+ 
+RUN apt update && apt -y install httpd 
+ 
+RUN echo "Welcome to Oracle - Docker Training Session Home Page created using 
+dockerfile">/var/www/html/index.html 
+ 
+EXPOSE 80 
