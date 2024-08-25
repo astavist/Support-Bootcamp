@@ -1,0 +1,38 @@
+monolitik-servis oriented architecture-microservis farkları
+monolitik
++tek bir codebase ile çalışmak
++yönetimi daha kolaydır
++küçük projelerde geliştirme daha kolaydır
+-esneklik zayıf 
+-dikey ölçekleme yapabilmek daha fazla kaynak istemesi
+
+soa
+belirli bir işi yapan servisler bütünü
+yeniden kullanılabilirlik önemli
+
+
+mikroservice
+soanın daha geliştirilmiş ve modern hali gibi düşünebiliriz
+daha bağımsız
+yatay ölçeklendirme
+cı/cd pipelinelarını entegre etmek daha kolaydır
+-yönetimi daha zordur
+
+
+yazılım geliştirme geçmişte nasıldı şimdi nasıl biraz ona baktık
+
+mikroserviste proje management nasıl ona baktık
+1-konsept
+2-planning
+3-launch
+4-control
+5-close
+
+
+hangi firmalar mikroservice
+airbnb-netflix-uber
+
+sonrasında da basit bir spring e-commerce mikroservice projesi yazdık
+
+
+
